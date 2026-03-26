@@ -2,7 +2,6 @@ https://manabu-nakamura.github.io/jekyll-gfm-admonitions1.4.1/
 ```markdown
     > [!NOTE] My own title
     > Fancy!
-</blockquote>
 ```
 ⬇️
     > [!NOTE] My own title
