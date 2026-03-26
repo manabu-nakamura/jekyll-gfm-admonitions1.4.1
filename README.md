@@ -4,6 +4,7 @@ https://manabu-nakamura.github.io/jekyll-gfm-admonitions1.4.1/
     > Fancy!
 ```
 ⬇️
+
     > [!NOTE] My own title
     > Fancy!
 
