@@ -1,11 +1,13 @@
 https://manabu-nakamura.github.io/jekyll-gfm-admonitions1.4.1/
 ```markdown
-    > [!NOTE] My own title
-    > Fancy!
+    > [!NOTE]
+    > Highlights information that users should take into account, even when skimming.
+    > And supports multi-line text.
 ```
 ⬇️
 
-    > [!NOTE] My own title
-    > Fancy!
+    > [!NOTE]
+    > Highlights information that users should take into account, even when skimming.
+    > And supports multi-line text.
 
 [Manabu Nakamura](https://github.com/manabu-nakamura)
